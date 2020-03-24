@@ -156,9 +156,9 @@ $(document).ready(function () {
     //================================== BELOW THIS IS API CALLS =========================================
     $(".card").flip();
 
-    // getPexelsDog();
+    getPexelsDog();
     // getCat();
-    getLandscape();
+    // getLandscape();
     var photoArray = [];
 
     var imgTag = $("img");
