@@ -1,1 +1,1 @@
-# memory_game_mockup
+# memory-game
